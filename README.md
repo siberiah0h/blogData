@@ -11,3 +11,4 @@
 7、[BWAPP在线靶场-bWAPP an extremely buggy web app: bWAPP](http://hub.exp-9.com/index.html) 账号：admin 密码：password</br>
 8、[SQL注入在线靶场-SQLI-LABS is a platform to learn SQLI: SQLI](http://hub.exp-9.com/index.html) 账号：admin 密码：password</br>
 9、[移动安全框架- Mobile Security Framework (MobSF) ](http://app.exp-9.com/index.html) 账号：admin 密码：password</br>
+10、[一种针对红队的新型溯源手段](http://www.exp-9.com/post/58.html) </br>
